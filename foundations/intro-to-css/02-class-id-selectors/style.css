@@ -1,0 +1,23 @@
+*{
+ font-size:24px;
+}
+p{
+ background-color:pink;
+}
+
+.third{
+font-size:32px;
+}
+
+#second{
+ color:blue;
+ font-size:36px;
+ font-family:"Verdana","DejaVu Sans",sans-serif;
+ font-weight:500;
+}
+
+#fourth{
+ font-weight:bold;
+ font-family:"Verdana","DejaVu Sans",sans-serif;
+ background-color:lightgreen;
+}
