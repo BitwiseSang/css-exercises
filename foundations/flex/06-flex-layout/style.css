@@ -69,6 +69,7 @@ a {
 .footer {
   padding: 18px;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .left-links,
